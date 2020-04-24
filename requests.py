@@ -1,4 +1,3 @@
-import requests
 # THIS IS THE REQUIRED CODE
 
 import requests
